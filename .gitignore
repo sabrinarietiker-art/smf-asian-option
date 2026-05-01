@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.aux
+*.log
+*.out
+*.toc
+dataset.json
+results.json
+terminal_dist_q.csv
+robust.csv
+robust_grid.npy
