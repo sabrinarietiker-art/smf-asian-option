@@ -1,6 +1,5 @@
 # SMF HSG Assignment — Asian Option Pricing
 
-Public companion repository for the Bachelor assignment in
 **Stochastic Methods in Finance** (Spring 2026, University of St. Gallen,
 Prof. E. De Giorgi).
 
